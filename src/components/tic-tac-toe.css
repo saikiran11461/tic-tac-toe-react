@@ -1,9 +1,9 @@
 table td{
-    border: 1px solid white;
+    border: 2px solid #76e2d6;
     width: 100px;
     height: 100px;
     text-align: center;
-    margin-top: 300px;
+   
     
 }
 .container{
@@ -11,17 +11,20 @@ table td{
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    color:red;
+    color:#d576e2;
     font-size: 30px;
-    height: 400px;
+    height: 700px;
     width: 500px;
-    margin: auto;
+    margin-top: 100px;
+    margin-left: 650px;
+    background-color: black;
     
 }
 button{
-    color: black;
+    color: #d576e2;
     border-radius: 15px;
     font-size: 15px;
-    background-color: none;
+    background-color: #76e2d6;
+    border: none;
 
 }

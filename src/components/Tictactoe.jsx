@@ -77,7 +77,7 @@ export const tictactoe = () => {
 				Turn: {turn}
 				<tbody>
 					<tr>
-						<Cell num={0} />
+						<Cell className={cells} num={0} />
 						<Cell num={1} />
 						<Cell num={2} />
 					</tr>
